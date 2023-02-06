@@ -1,0 +1,25 @@
+{
+  "keranjang": [
+    {
+      "nama": "Cholesterol",
+      "harga": 78000,
+      "id": 2
+    }
+  ],
+  "riwayat": [
+    {
+      "namaTes": "Asam Urat",
+      "harga": 89000,
+      "tanggalTes": "2023-02-05",
+      "status": "Sudah Dibayar",
+      "id": 1
+    },
+    {
+      "namaTes": "Asam Urat",
+      "harga": 89000,
+      "tanggalTes": "2023-02-06",
+      "status": "Sudah Dibayar",
+      "id": 2
+    }
+  ]
+}
